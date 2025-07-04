@@ -1,0 +1,20 @@
+>)CSS ~~~
+ *without css can we apply styles?
+ > yes. using the attribute - style and border
+ > the disadv is we loose the style reusability.
+ >           - loosing readability
+ >           - loosing modularity
+CSS:::::::::::::::
+ :>cascading stsyle sheet
+  > bringing/rendering global attribute css file.
+
+
+>>How many ways we can apply the css?
+ *Inline css---by using style attribute and there is no reusability.
+ *Internal css / embedded ---- using <style>tag & page level reuse..
+ ./>> means current working directory.
+ *External css--- using <link> and
+
+Two Thumb rules are there .they are- 
+Rule no-1 :::>
+ ** nearest style has highest priority or 

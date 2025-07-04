@@ -1,0 +1,31 @@
+
+            body{
+                background-color: black;
+            }
+            h1{
+                color: crimson
+            }
+            p{
+                background-color: blue; color: antiquewhite;
+            }
+            h2{
+                background-color: cornsilk; color: brown;
+            }
+           #p1{
+            color: gray;
+           }
+            #p2{
+            color: black;
+           }
+            #p3{
+            color: bisque;
+           }
+            #p4{
+            color: coral;
+           }
+           .odd{
+            color: darkorange;
+           }
+           .even{
+            color: lawngreen;
+           }

@@ -1,0 +1,40 @@
+CSS day -2>>>>>>>>>>>>>>>>>>>>>>>>>>:
+    
+Rule 1 :                                                      1 rem = 16px
+      *)styles are applied from top to bottom.
+      *)nearest style has highest priority.
+  ~~~~CSS Selector?>>>>
+      **> reysability
+       types::
+              >tag/element selector
+              >group of tag/ele selector
+              >class selector  (.)
+              >id selector(#)
+              >group of class,id,tag selector
+              >attribute selector[]
+              >universal(*)
+
+   ~~~ when to use class selector?????????
+       
+
+
+Rule 2 ::
+
+    *)CSS selector specificity priority order.
+    *) Inline>id selector>class>tag/element selector
+
+
+a{
+}>tag sele
+
+#rr{
+}>id sele
+
+.rr{
+}>class sle
+
+a[target]{
+}>attribute sele
+
+*{
+}>universal sele

@@ -1,0 +1,21 @@
+tag categiries:
+document tags:<html>    title   style    script
+              <head>    meta    link  
+              <body>
+structure tags:
+              div,section,article aside,header footer
+text formatting:
+              h1,h2,h3........hn
+              <p>,<i>,<b>,<strong> 
+image tag:
+          <img          />
+link tag:
+         <a>        </a>
+
+list tags:
+         <ol>  
+         <ui> <hi>
+table tags:
+          <table><thead><tr><th><td><tbodu>
+form tags:
+         <label><buttom><select>

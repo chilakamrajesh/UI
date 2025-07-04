@@ -1,0 +1,13 @@
+a{
+    background-color: red;
+}
+#rr{
+    background-color: blue;
+}
+
+a[target]{
+    background-color: blue;
+}
+*{
+    background-color: aqua;
+}

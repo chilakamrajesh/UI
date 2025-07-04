@@ -1,0 +1,50 @@
+js- scripting programming language for web interactivity
+light weight programming language
+loosely typed programming language
+js- is a dynamic typed programming language
+
+js introduction: statements
+1. variables
+2. function
+
+
+comments: how to write comments
+// single line comment
+/* multiple line comment
+
+
+identifiers-- name in js programming and have 7 rules
+1.identifiers contains a-z, A-Z, 0-9,_,$
+2. identifiers should not start with 0-9
+3. should not contain any special characters/symbols
+4.should not use keywords as a identifiers
+5. identifiers 
+
+
+
+Data type
+1. primitive data type -- number, string, boolean, undefined, null, symbol, big int
+2. non-primitive data type -- js array[], js object{}
+
+js array -- 
+group of elements / values using as a=one entity
+using []
+allowed duplicates and heterogeneous elements
+array elements are string based indexing (0 to n-1)
+-ve indexing is not possible
+insertion order is maintained
+js array is iterable object we can iterate using 
+-for loop
+-while loop
+dowhile loop
+for-of
+
+
+
+
+js object -- group of key:value pairs as one entity / group of data and functionality as one entity
+using {}
+duplicate keys are not allowed but values are allowed
+indexing concept is not applicable
+order is not applicable
+js object is not a iterable object but we can iterate using for-in

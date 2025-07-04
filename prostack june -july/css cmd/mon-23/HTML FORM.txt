@@ -1,0 +1,32 @@
+HTML FORM
+<input--validation  attributes/>
+1.requried
+2.read only
+3.disabled
+4.min-for number
+5.max-for number
+6.name-js
+7.ID-js
+8.value-default value
+9.placeholder-proving information to user
+10.min length-text data
+11.max length-text data
+12.tab index
+13.pattern-regular expression
+we use pattern attribute for regular expression
+*pattern="[6-9][0-9]{9}"
+*<br>-brake 
+*<div>-brake both are same
+
+
+*** A tag has opening and closing is called container tag.
+*** A tag has opening and closing it seif is called non-container tag.
+
+
+Block level tag/element:
+             * All block level elements always starts with new line.
+             * All block level elements occupy complete width.
+             * It takes top margin and bottom margin.
+Inline tag/element:
+             *reverse of above one.
+                 
