@@ -13,4 +13,4 @@ if(esal>=40000){
 }
 else{
     console.log("Not Eligible")
-}
+} 

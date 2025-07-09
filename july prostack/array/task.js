@@ -997,6 +997,31 @@ let employees=[{"eid":1,"ename":"Innis","gender":"Male"},
 {"eid":997,"ename":"Burlie","gender":"Male"},
 {"eid":998,"ename":"Walden","gender":"Male"},
 {"eid":999,"ename":"Thedrick","gender":"Genderfluid"}]
-for(let employee of employees){
-    console.log(employee.ename)
+
+/* let no_male_employees=0;
+let no_female_employees=0;
+
+for(let emp of employees){
+    if(emp.gender==="male"){
+        no_male_employees++;
+    }
+    if(emp.gender==="female"){
+        no_female_employees++;
+    }
+}
+
+console.log("no of male employees:",no_male_employees)
+console.log("no of female employees:",no_female_employees) */
+
+
+let no_male_employees=0;
+let no_female_employees=0;
+
+for(let emp of employees){
+    if(emp.gender==="Male"){
+        no_male_employees++;
+    }
+    if(emp.gender==="Female"){
+        no_female_employees++;
+    }
 }
